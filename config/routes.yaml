@@ -1,0 +1,12 @@
+index:
+    path: /student
+    controller: App\Controller\StudentController::index
+
+#display:
+ #   path: /display
+  #  controller: App\Controller\StudentController::display
+
+#display:
+#   path: /display
+#  controller: App\Controller\StudentController::display
+
